@@ -1,2 +1,2 @@
 # CNCart
-A mobile robot controlled by a CNC board
+Library for controlling based on CNC plate robot with two stepper motors

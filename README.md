@@ -1,2 +1,2 @@
 # CNCart
-A robot controlled by a CNC board
+A mobile robot controlled by a CNC board
